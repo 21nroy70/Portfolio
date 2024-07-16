@@ -1,0 +1,15 @@
+---
+title: "Projects"
+listing:
+  contents: projects
+  type: default
+  
+navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - projects.qmd
+
+---
+
+Below, you can find my projects...

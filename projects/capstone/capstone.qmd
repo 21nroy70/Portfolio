@@ -1,0 +1,22 @@
+---
+title: "Capstone"
+description: "Capstone Project For UnitedHealth Group @ CMU 2024 On Mental Dealth Diagnosis"
+date: August 2024
+about: 
+  template: solana
+  image: cover.png
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/llch-24/Project3_MentalHealth
+      target: _blank
+    - icon: laptop-fill
+      text: Slides To Final Presentation
+      href: https://docs.google.com/presentation/d/1cVTwWvXtaoc6d4IIfsIPuMgMuBRmgc6KDOnshPryGo4/edit?usp=sharing
+      target: _blank
+    - icon: pencil
+      text: Report
+      href: https://docs.google.com/document/d/1zeg9PKfvT1r-0fEd3FDnj0xoEDlegWeVzNKNqI3S_Zs/edit?usp=sharing
+      target: _blank
+---
+

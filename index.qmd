@@ -1,0 +1,26 @@
+---
+title: "Nikhil Roy's Profile"
+about:
+  template: jolla
+  image: assets/headshot.png
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:21niroy70@gmail.com
+      target: _blank
+    - icon: github
+      text: Github
+      href: https://github.com/21nroy70?tab=repositories
+      target: _blank
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/nikhil-roy-453441221/
+      target: _blank
+      
+---
+
+
+I am a current graduate student at the University of Maryland, College Park studying M.S. in Machine Learning. I excpect to graduate in December 2025. 
+
+I have obtained an undergraduate degree in Data Science at the University of Pittsburgh in April 2024.
+

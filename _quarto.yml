@@ -1,0 +1,36 @@
+project:
+  type: website
+  resources: assets
+  output-dir: docs
+
+website:
+  title: "Nikhil Roy"
+  navbar:
+    background: "#003594"
+    foreground: "#FFB81C"
+    logo: "assets/pitt.png"
+
+    left:
+      - href: index.qmd
+        text: Home
+      - projects.qmd
+      - companies.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/nikhil-roy-453441221/
+        target: _blank
+      - icon: github
+        href: https://github.com/21nroy70?tab=repositories
+        target: _blank
+      - icon: person-badge-fill
+        href: assets/Nikhil_Roy_Official_Resume_Web.pdf
+        target: _blank
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
