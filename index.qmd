@@ -17,6 +17,10 @@ about:
       text: LinkedIn
       href: https://www.linkedin.com/in/nikhil-roy-453441221/
       target: _blank
+    - icon: newspaper
+      text: Published Researched Paper
+      href: assets/Final_Report.html
+      target: _blank
       
 ---
 
