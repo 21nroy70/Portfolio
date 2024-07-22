@@ -5,6 +5,10 @@ about:
   template: jolla
   image: assets/headshot.png
   links:
+    - icon: person-badge-fill
+      text: Resume
+      href: assets/Nikhil_Roy_Official_Resume_Web.pdf
+      target: _blank
     - icon: envelope
       text: Email
       href: mailto:21niroy70@gmail.com
@@ -18,7 +22,7 @@ about:
       href: https://www.linkedin.com/in/nikhil-roy-453441221/
       target: _blank
     - icon: newspaper
-      text: Published Researched Paper
+      text: Published Researched Paper For UnitedHealth Group
       href: assets/Final_Report.html
       target: _blank
       
