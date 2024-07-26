@@ -22,7 +22,7 @@ about:
       href: https://www.linkedin.com/in/nikhil-roy-453441221/
       target: _blank
     - icon: newspaper
-      text: Published Researched Paper For UnitedHealth Group
+      text: Published Research Paper
       href: assets/Final_Report.html
       target: _blank
       
