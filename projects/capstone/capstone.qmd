@@ -16,7 +16,7 @@ about:
       target: _blank
     - icon: p-square-fill
       text: Published Paper
-      href: assets/Final_Report.html
+      href: https://www.stat.cmu.edu/cmsac/sure/2024/showcase/mental_health/report.html
       target: _blank
 ---
 
