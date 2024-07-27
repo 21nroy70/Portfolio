@@ -7,7 +7,7 @@ about:
   links:
     - icon: person-badge-fill
       text: Resume
-      href: assets/Nikhil_Roy_Official_Resume_Web.pdf
+      href: Nikhil_Roy_Official_Resume_Web.pdf
       target: _blank
     - icon: envelope
       text: Email
