@@ -3,3 +3,11 @@ title: "Industry Experience"
 ---
 
 Below are the companies and positions i've worked at in my career...
+
+General Motors as a Data Scientist Intern (May 2025 - August 2025)
+
+UnitedHealth Group as a Data Scientist Researcher (June 2024 - August 2024)
+
+University of Pittsburgh Medical Center as a Data Engineer Intern (May 2024 - June 2024)
+
+University of Pittsburgh as a Neurocognitive Machine Learning Researcher (July 2023 - August 2024) 
