@@ -33,3 +33,5 @@ I am a current graduate student at the University of Maryland, College Park stud
 
 I have obtained an undergraduate degree in Data Science at the University of Pittsburgh in April 2024.
 
+My most recent work experience is working as a Data Scientist Intern at General Motors (GM) where I created a Product Engagement Score for various OnStar products (Remote, Wi-Fi, SuperCruise, etc.) on GM vehicles. I used that developed statisical score to be a feature in my Machine Learning algorithms (classification trees, regression, and unsuperised models) to derive insights on customer retention and acquisition. Then, I delivered my results and findings to various cross-functional stakeholders such as marketing, sales, finance, and engineering.  
+
